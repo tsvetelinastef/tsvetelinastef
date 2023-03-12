@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tsvetelina Stefanova</h1>
 <h3 align="center"> Computer and Software engineering student at Technical University of Sofia</h3>
-<img align="right" alt="Coding" width="400" src= https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966>
+<img align="right" alt="Coding" width="400" src= https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsvetelinastef&label=Profile%20views&color=0e75b6&style=flat" alt="tsvetelinastef" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@tsvetystefanova" target="blank"><img src="https://img.shields.io/twitter/follow/@tsvetystefanova?logo=twitter&style=for-the-badge" alt="@tsvetystefanova" /></a> </p>
