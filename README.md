@@ -4,7 +4,7 @@
 <h3 align="center"> Computer and Software engineering student at Technical University of Sofia</h3>
 <img align="right" alt="Coding" width="400" src= https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsvetelinastef&label=Profile%20views&color=0e75b6&style=flat" alt="tsvetelinastef" /> </p> -->
-<p> . </p>
+
 
 <p align="left"> <a href="https://twitter.com/@tsvetystefanova" target="blank"><img src="https://img.shields.io/twitter/follow/@tsvetystefanova?logo=twitter&style=for-the-badge" alt="@tsvetystefanova" /></a> </p>
 
