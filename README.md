@@ -22,10 +22,11 @@
 &nbsp;
 
 <p align="left">
-<a href="https://twitter.com/@tsvetystefanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tsvetystefanova" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/@tsvetystefanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tsvetystefanova" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/tsvetelina-stefanova-2a57501bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsvety stefanova" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100001171058837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tsvety stefanova" height="30" width="40" /></a>
-<a href="https://instagram.com/tsvety2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsvety2001" height="30" width="40" /></a>
+
+ <!-- <a href="https://instagram.com/tsvety2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsvety2001" height="30" width="40" /></a> -->
 <a href="https://discord.gg/#6520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6520" height="30" width="40" /></a>
 </p>
 
