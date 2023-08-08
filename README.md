@@ -12,7 +12,7 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me:
 <!--<h3 align="left">Connect with me:</h3> -->
-<p align="left"> <a href="https://twitter.com/@tsvetystefanova" target="blank"><img src="https://img.shields.io/twitter/follow/@tsvetystefanova?logo=twitter&style=for-the-badge" alt="@tsvetystefanova" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@tsvetystefanova" target="blank"><img src="https://img.shields.io/twitter/follow/@tsvetystefanova?logo=twitter&style=for-the-badge" alt="@tsvetystefanova" /></a> </p> -->
 
 
 <img align="right" alt="Coding" width="350" lenght="200" src= https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif> 
