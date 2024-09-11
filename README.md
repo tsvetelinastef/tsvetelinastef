@@ -32,7 +32,7 @@
 &nbsp;
 
 ## 📊 &nbsp;Stats
-<p><img align="left" alt="Statistics" width="550" lenght="270" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvetelinastef&" alt="tsvetelinastef" /></p> 
+<p><img align="center" alt="Statistics" width="550" lenght="270" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvetelinastef&" alt="tsvetelinastef" /></p> 
 &nbsp;
 &nbsp;
 &nbsp;
