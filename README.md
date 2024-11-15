@@ -33,12 +33,18 @@
 
 ## 📊 &nbsp;Stats
 <p><img align="center" alt="Statistics" width="550" lenght="270" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvetelinastef&" alt="tsvetelinastef" /></p> 
-&nbsp;
-&nbsp;
+
 &nbsp;
 &nbsp;
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsvetelinastef&show_icons=true&locale=en&layout=compact" alt="tsvetelinastef" /></p> -->
+
+&nbsp;
+&nbsp;   
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsvetelinastef&show_icons=true&locale=en&layout=compact" alt="tsvetelinastef" /></p> 
 
 
+&nbsp;
+&nbsp;  
+<!--  -->
 
