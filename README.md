@@ -31,6 +31,7 @@
 &nbsp;
 &nbsp;
 
+<!--  
 ## 📊 &nbsp;Stats
 <p><img align="center" alt="Statistics" width="550" lenght="270" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvetelinastef&" alt="tsvetelinastef" /></p> 
 
@@ -41,6 +42,57 @@
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsvetelinastef&show_icons=true&locale=en&layout=compact" alt="tsvetelinastef" /></p> 
 
 &nbsp;
-&nbsp;  
+&nbsp;    -->
 <!--  -->
+
+
+
+
+
+<br/>
+<hr/>
+
+<div align="center">
+<h2 align="center">⚡ 📊Stats ⚡</h2>
+<br>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tsvetelinastef&theme=dark)](https://git.io/streak-stats)
+</div>
+
+
+<div align="center">
+<h2 align="center">🌟 Profile Summary 🌟</h2>
+<br>
+
+  ![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsvetelinastef&theme=dark)
+</div>
+
+
+<hr>
+
+<div align="center">
+<h2 align="center">💻 Top Languages & Commits 💻</h2>
+<br>
+
+  ![Top language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsvetelinastef&theme=dark)
+  ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsvetelinastef&theme=dark)
+</div>
+
+<div align="center">
+<br>
+
+  ![Cards stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsvetelinastef&theme=dark)
+  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsvetelinastef&theme=dark&utcOffset=8)
+</div>
+
+
+
+<hr>
+
+<div align="center">
+<h3 align="center">🏆 Github Trophy 🏆</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsvetelinastef" alt="tsvetelinastef" /></a> </p>
+</div>
+
+<hr>
 
